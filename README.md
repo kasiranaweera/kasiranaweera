@@ -1,8 +1,10 @@
-<div align="center" style="margin-bottom: 10px;">
+<div align="center">
 
-<h1 > Hi, I'm K.A.S.I. Ranaweera 👋<br><span>_sithija_</span><br>&nbsp;&nbsp;&nbsp;&nbsp;</h1>
+<h1 > Hi, I'm K.A.S.I. Ranaweera 👋<br>
+  <span><h6>_sithija_</span><br></h1>
 
 </div>
+
 
 > Undergraduate | AI / ML / DL | Generative AI & Agentic AI
 
