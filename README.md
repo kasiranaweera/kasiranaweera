@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20K.A.S.I.%20Ranaweera%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=_sithija_&descSize=20&descAlignY=55&descAlign=50)
+
+
 <div align="center">
 
 <h1 > Hi, I'm K.A.S.I. Ranaweera 👋<br>
@@ -39,4 +42,54 @@ I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artif
 
 Feel free to explore my repositories and reach out for collaboration
 
-
+<!-- Featured Projects Section -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">My Awesome Project</h3>
+<div align="center">  
+<a href="#" target="_blank">
+<img src="/path/to/project.png" width="50%" alt="My Awesome Project"/>
+</a>
+<br>
+<br>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+<p align="left">
+• Key feature or achievement<br>
+• Important functionality<br>
+• Technical highlight
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">My Awesome Project</h3>
+<div align="center">  
+<a href="#" target="_blank">
+<img src="/path/to/project.png" width="50%" alt="My Awesome Project"/>
+</a>
+<br>
+<br>
+<p>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
+</a>
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
+</a>
+</p>
+<p align="left">
+• Key feature or achievement<br>
+• Important functionality<br>
+• Technical highlight
+</p>
+</div>
+</td>
+</tr>
+</table>
