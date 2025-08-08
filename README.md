@@ -5,10 +5,6 @@
 
 </div>
 
-###
-
-
-
 > Undergraduate | AI / ML / DL | Generative AI & Agentic AI
 
 I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative/Agentic AI**. My focus is on building intelligent systems and innovative generative models. I also enjoy **software development**, creating scalable web applications and analyzing big data with tools like MERN stack, Django, React JS, and Python. 
