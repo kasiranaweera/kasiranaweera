@@ -1,0 +1,125 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alex Chen's GitHub Profile</title>
+    <!-- Include Tailwind CSS via CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Sparkle Animation */
+        .sparkle {
+            position: absolute;
+            width: 8px;
+            height: 8px;
+            background: white;
+            border-radius: 50%;
+            opacity: 0.5;
+            animation: sparkle 5s infinite ease-in-out;
+            pointer-events: none;
+        }
+
+        @keyframes sparkle {
+            0%, 100% { transform: scale(0.5); opacity: 0.2; }
+            50% { transform: scale(1); opacity: 0.8; }
+        }
+
+        /* Fade-in and scale for profile picture */
+        @keyframes fadeInScale {
+            from { opacity: 0; transform: scale(0.8); }
+            to { opacity: 1; transform: scale(1); }
+        }
+
+        /* Slide-in for text */
+        @keyframes slideIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Bounce on hover for links */
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+        }
+
+        .animate-profile-pic {
+            animation: fadeInScale 1s ease-out forwards;
+        }
+
+        .animate-text {
+            animation: slideIn 1s ease-out forwards;
+        }
+
+        .social-link:hover {
+            animation: bounce 0.3s ease;
+        }
+
+        /* Float animation for decorative elements */
+        @keyframes float {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-10px); }
+        }
+
+        .animate-float {
+            animation: float 3s infinite ease-in-out;
+        }
+
+        /* Gradient text */
+        .gradient-text {
+            background: linear-gradient(to right, #a855f7, #3b82f6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <header class="relative bg-gradient-to-r from-gray-900 to-blue-900 text-white py-16 px-4 flex flex-col items-center justify-center min-h-[400px] overflow-hidden">
+        <!-- Sparkle Animation -->
+        <div class="absolute inset-0 z-0">
+            <div class="sparkle" style="top: 10%; left: 20%; animation-delay: 0s;"></div>
+            <div class="sparkle" style="top: 30%; left: 60%; animation-delay: 1s;"></div>
+            <div class="sparkle" style="top: 50%; left: 30%; animation-delay: 2s;"></div>
+            <div class="sparkle" style="top: 70%; left: 80%; animation-delay: 3s;"></div>
+            <div class="sparkle" style="top: 20%; left: 40%; animation-delay: 4s;"></div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="relative z-10 max-w-4xl mx-auto text-center">
+            <!-- Profile Picture -->
+            <div class="relative inline-block mb-8 animate-profile-pic">
+                <div class="w-32 h-32 mx-auto rounded-full bg-gradient-to-r from-purple-500 to-blue-500 p-1">
+                    <img src="https://via.placeholder.com/120" alt="Profile Picture" class="w-full h-full rounded-full object-cover">
+                </div>
+                <div class="absolute -top-2 -right-2 w-8 h-8 bg-gradient-to-r from-pink-500 to-red-500 rounded-full flex items-center justify-center animate-float">
+                    <svg class="w-4 h-4 text-white" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4s1.79 4 4 4 4-1.79 4-4-1.79-4-4-4z"/>
+                    </svg>
+                </div>
+            </div>
+
+            <!-- Name and Title -->
+            <h1 class="text-4xl md:text-5xl font-bold gradient-text animate-text">Alex Chen</h1>
+            <p class="text-lg md:text-xl text-gray-300 mt-4 animate-text" style="animation-delay: 0.2s;">AI/ML Engineer & Generative AI Researcher</p>
+            <p class="text-lg text-blue-300 font-medium mt-2 animate-text" style="animation-delay: 0.4s;">🎓 Computer Science Undergraduate | 🧠 Passionate about Gen AI & Agentic AI</p>
+            <p class="text-base text-gray-400 max-w-2xl mx-auto mt-2 animate-text" style="animation-delay: 0.6s;">
+                Building the future with AI agents and generative models. Exploring the intersection of large language models, multi-agent systems, and autonomous AI.
+            </p>
+
+            <!-- Social Links -->
+            <div class="flex gap-6 mt-6 animate-text" style="animation-delay: 0.8s;">
+                <a href="https://github.com/alexchen" target="_blank" class="text-white hover:text-cyan-300 transition-colors social-link">GitHub</a>
+                <a href="https://linkedin.com/in/alexchen-ai" target="_blank" class="text-white hover:text-cyan-300 transition-colors social-link">LinkedIn</a>
+                <a href="mailto:alex.chen.ai@university.edu" class="text-white hover:text-cyan-300 transition-colors social-link">Email</a>
+            </div>
+        </div>
+
+        <!-- Background Decorative Elements -->
+        <div class="absolute top-20 left-10 w-20 h-20 bg-purple-500 rounded-full opacity-20 animate-float"></div>
+        <div class="absolute bottom-20 right-10 w-16 h-16 bg-blue-500 rounded-full opacity-30 animate-float" style="animation-delay: 1s;"></div>
+        <div class="absolute top-1/2 left-20 w-12 h-12 bg-pink-500/30 rounded-full animate-float" style="animation-delay: 2s;"></div>
+    </header>
+</body>
+</html>
+```
