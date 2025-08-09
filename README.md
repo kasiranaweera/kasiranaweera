@@ -1,14 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20K.A.S.I.%20Ranaweera%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=_sithija_&descSize=20&descAlignY=55&descAlign=50)
-
-
 <div align="center">
-
-<h1 > Hi, I'm K.A.S.I. Ranaweera 👋<br>
-  <span><h6>_sithija_</span><br></h1>
-
+<h3>Undergraduate | AI / ML / DL Developer | Generative AI & Agentic AI<br></h3>
 </div>
 
-> Undergraduate | AI / ML / DL | Generative AI & Agentic AI
+---
+
 
 I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative/Agentic AI**. My focus is on building intelligent systems and innovative generative models. I also enjoy **software development**, creating scalable web applications and analyzing big data with tools like MERN stack, Django, React JS, and Python. 
 
@@ -93,3 +89,18 @@ Feel free to explore my repositories and reach out for collaboration
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+### 🚀 **"The best way to predict the future is to invent it."** - Alan Kay
+
+**Currently building the next generation of AI agents that will reshape how we interact with technology.**
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=alexchen.alexchen)
+![Profile Views](https://komarev.com/ghpvc/?username=alexchen&color=blueviolet&style=flat-square&label=Profile+Views)
+
+*Last Updated: January 2025*
+
+</div>
