@@ -5,7 +5,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/kasiranaweera/kasiranaweera/872ab941b67cc5df11ea5e969e53f4f3810694a5/items/header.svg" width="100%" alt="My Awesome Project" />
 
 
 I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative/Agentic AI**. My focus is on building intelligent systems and innovative generative models. I also enjoy **software development**, creating scalable web applications and analyzing big data with tools like MERN stack, Django, React JS, and Python. 
