@@ -1,11 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20K.A.S.I.%20Ranaweera%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=_sithija_&descSize=20&descAlignY=55&descAlign=50)
-<div align="center">
-<h3>Undergraduate | AI / ML / DL Developer | Generative AI & Agentic AI<br></h3>
-</div>
+<img src="https://raw.githubusercontent.com/kasiranaweera/kasiranaweera/89d585a5698d564be6551b58f0dee84183a8a11d/items/header.svg" width="100%" alt="My Awesome Project" />
 
 ---
-
-
 
 I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative/Agentic AI**. My focus is on building intelligent systems and innovative generative models. I also enjoy **software development**, creating scalable web applications and analyzing big data with tools like MERN stack, Django, React JS, and Python. 
 
