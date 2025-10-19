@@ -1,0 +1,6 @@
+<svg width="150" height="40" viewBox="0 0 150 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- GitHub icon -->
+  <image x="0" y="8" width="24" height="24" xlink:href="https://raw.githubusercontent.com/kasiranaweera/kasiranaweera/745276831522f6c84252b4bf1f1d5f760db3c1f3/icons/github_dark.svg" />
+  <!-- Text -->
+  <text x="32" y="22" font-family="Arial, sans-serif" font-size="14" fill="#000000">View the code</text>
+</svg>
