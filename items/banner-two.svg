@@ -1,0 +1,47 @@
+<svg width="200" height="56" viewBox="0 0 200 56" xmlns="http://www.w3.org/2000/svg">
+  <!-- Definitions -->
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a1a3d"/>
+      <stop offset="100%" stop-color="#4b0082"/>
+    </linearGradient>
+    <!-- Text Gradient -->
+    <linearGradient id="txtGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#e0e0ff"/>
+    </linearGradient>
+    <!-- Drop Shadow -->
+    <filter id="shadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2"/>
+      <feOffset dx="2" dy="2" result="offset"/>
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.5"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background Rounded Rectangle -->
+  <rect x="0" y="0" width="200" height="56" rx="12" ry="12"
+        fill="url(#bgGrad)" stroke="#ffffff" stroke-width="1" opacity="0.9"/>
+
+  <!-- Centered Group (Icon + Text) -->
+  <g transform="translate(100,28)" filter="url(#shadow)">
+    <!-- Link Icon (24x24px) -->
+    <g transform="translate(-46,-12) scale(0.024)">
+      <path fill="#ffffff"
+            d="M508.1 252.3c6.2 6.2 6.2 16.4 0 22.6l-75.1 75.1c-30.1 30.1-78.9 30.1-108.9 0-6.2-6.2-6.2-16.4 0-22.6l75.1-75.1c6.2-6.2 16.4-6.2 22.6 0l86.3 86.3c6.2 6.2 16.4 6.2 22.6 0 30.1-30.1 30.1-78.9 0-108.9l-75.1-75.1c-6.2-6.2-6.2-16.4 0-22.6 6.2-6.2 16.4-6.2 22.6 0l75.1 75.1zm-200.2 0c6.2-6.2 16.4-6.2 22.6 0l75.1 75.1c30.1 30.1 30.1 78.9 0 108.9-6.2 6.2-6.2 16.4 0 22.6 6.2 6.2 16.4 6.2 22.6 0 30.1-30.1 78.9-30.1 108.9 0l75.1-75.1c6.2-6.2 16.4-6.2 22.6 0 6.2 6.2 6.2 16.4 0 22.6l-86.3-86.3c-6.2-6.2-16.4-6.2-22.6 0l-75.1 75.1c-6.2 6.2-16.4 6.2-22.6 0-6.2-6.2-6.2-16.4 0-22.6l75.1-75.1c6.2-6.2 6.2-16.4 0-22.6z"/>
+    </g>
+
+    <!-- Text (Kaggle Dataset, 8px gap from icon) -->
+    <text x="4" y="6"
+          font-family="'Roboto', Arial, sans-serif"
+          font-size="16"
+          font-weight="500"
+          fill="url(#txtGrad)">Kaggle Dataset</text>
+  </g>
+</svg>
