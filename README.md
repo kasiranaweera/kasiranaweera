@@ -1,23 +1,120 @@
-<img src="https://raw.githubusercontent.com/kasiranaweera/kasiranaweera/89d585a5698d564be6551b58f0dee84183a8a11d/items/header.svg" width="100%" alt="My Awesome Project" />
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/28469da27512c16cab5344fb9d3062b5239b9170/items/header.svg" width="100%" alt="My Awesome Project" />
 
 ---
+BSc Software Engineering undergraduate at [SLTC](https://www.sltc.ac.lk/) since June 2022, specializing in AI engineering. Passionate about Generative AI, Agentic AI, Machine Learning, Deep Learning, and full-stack development to create impactful solutions in education and community development.
 
-I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artificial Intelligence**, **Machine Learning**, **Deep Learning**, and **Generative/Agentic AI**. My focus is on building intelligent systems and innovative generative models. I also enjoy **software development**, creating scalable web applications and analyzing big data with tools like MERN stack, Django, React JS, and Python. 
+## What I Do
+- **AI/ML/DL**: Develop models using Python, PyTorch, and LightGBM for recommendation systems, predictive analytics, and graph-based learning.
+- **Generative & Agentic AI**: Experiment with transformers, diffusion models, RAG, and LangChain for personalized content and autonomous agents.
+- **Software Development**: Build scalable web apps with MERN stack, Django, React.js, and Next.js.
+- **Community Impact**: Lead volunteering in tech events (e.g., NASA Space Apps, IEEE workshops) and student societies to foster innovation and education.
 
-## 🔍 What I Do
-- **AI/ML/DL**: Develop models using Python, PyTorch, and LightGBM for tasks like graph-based learning, recommendation systems, and predictive analytics.
-- **Generative AI**: Experiment with transformers and diffusion models for tasks like text generation and creative content creation.
-- **Agentic AI**: Build autonomous AI agents for decision-making and task automation using frameworks like LangChain and reinforcement learning.
-- **Software Development**: Create full-stack web applications and data-driven solutions using modern frameworks and libraries.
-- **Big Data**: Analyze large datasets to uncover insights using Python-based tools.
+## Featured Projects
 
-## 🚀 My Projects
-- **[University Recommendation System](https://github.com/yourusername/university-recommendation-system)**: Built a LightGBM-based system to recommend university courses based on Z-scores, districts, and streams, achieving accurate ranking of eligible courses. ([Dataset on Hugging Face](https://huggingface.co/datasets/yourdataset))
-- **[GCN on OGBN-Arxiv](https://github.com/yourusername/gcn-ogbn-arxiv)**: Implemented a Graph Convolutional Network with PyTorch Geometric, achieving **0.6057 validation accuracy** on the OGBN-Arxiv dataset for node classification.
-- **[Generative AI Text Generator](https://github.com/yourusername/generative-ai-text)**: Developed a text generation model using Hugging Face transformers (e.g., GPT-2) for creative writing applications.
-- **[Agentic AI Task Automator](https://github.com/yourusername/agentic-ai-automator)**: Created a reinforcement learning-based AI agent to automate decision-making tasks.
-- **[MERN Portfolio Website](https://github.com/yourusername/mern-portfolio)**: Built a responsive portfolio using MongoDB, Express.js, React, and Node.js.
-- **[Big Data Analytics Dashboard](https://github.com/yourusername/big-data-dashboard)**: Developed a Python-based dashboard with Pandas and Plotly for visualizing large-scale data insights.
+<!-- Featured Projects Section -->
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"> EduWingz (FYP)</h3>
+<div align="center">  
+  <p>AI-powered personalized education platform that adapts teaching to individual learning patterns using generative and agentic AI. Features real-time progress tracking and interactive modules.</p>
+  <p>(React.js, Django, RAG, LangChain, Deepseek, Python)</p>
+<br>
+<p>
+<a href="#" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
+</a>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Knowingz Platform</h3>
+<div align="center">  
+<p>An educational math platform for O/L students, offering study materials, past papers, and expanding with interactive lessons, practice tools, calculators, virtual keyboards, and more to enhance accessible learning.</p>
+<p>(Next.js, Tailwind CSS, Latex)</p>
+<br>
+  <p>
+  <a href="#" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
+</a>
+    </p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Z-Score Uni Finder</h3>
+<div align="center">  
+  <p>ML-based recommender for university courses using Z-scores and UGC cutoff data (2020-2025) to help students make informed decisions.</p>
+  <p>(Next.js, Tailwind CSS, Machine Learning, LightGBM, Kaggle)</p>
+<br>
+<p>
+<a href="https://www.kaggle.com/datasets/ranaweerakasi/sri-lanakan-ugc-cutoff-marks-dataset-2020-2025" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/118ff6f8e90e038d2820d7c662899f7cc5a8c0be/items/banner-two.svg"/>
+</a>
+  <a href="https://github.com/kasiranaweera/Z-ScoreUniFinder" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
+</a>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">GNN on ogbn-arxiv</h3>
+<div align="center">  
+<p>Graph Neural Network implementation for node classification on arXiv citation dataset, comparing GCN, GraphSAGE, and GAT models with evaluation and hyperparameter tuning.</p>
+<p>(PyTorch Geometric, OGB, Scikit-learn, Matplotlib, NumPy)</p>
+<br>
+  <p>
+  <a href="https://github.com/kasiranaweera/GNN-ogbn-arxiv_dataset" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
+</a>
+    </p>
+</div>
+</td>
+
+</tr>
+
+<tr>
+<td width="50%">
+<h3 align="center">Road Accident Prediction</h3>
+<div align="center">  
+  <p>ML-based traffic accident prediction using logistic regression, random forest, and neural networks (up to 89% accuracy), plus a Flask chatbot for real-time safety recommendations.</p>
+  <p>(TensorFlow, Scikit-learn, Flask, Python)</p>
+<br>
+<p>
+<a href="https://github.com/kasiranaweera/road_accident_prediction" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
+</a>
+</p>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">Whisper AI-Psychiatric<</h3>
+<div align="center">  
+<p>AI-powered mental health assistant with voice interaction, fine-tuned Gemma-3 model for psychological guidance, RAG for context-aware responses, and crisis detection.</p>
+<p>(Streamlit, PyTorch, Hugging Face Transformers, Whisper, FAISS, Kokoro TTS)</p>
+<br>
+  <p>
+  <a href="https://github.com/kasiranaweera/whisper-ai-psychiatric-RAG-gemma3-finetuned" target="_blank">
+<img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
+</a>
+    </p>
+</div>
+</td>
+
+</tr>
+
+</table>
+
+- <h3>React Native Mobile App</h3>Cross-platform mobile application built as my first React Native project to explore mobile development, focusing on event management and team collaboration for SLTC student initiatives. Features real-time notifications, task tracking, and offline access using Firebase for backend sync and Expo for streamlined development and testing.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+- <h3>SLTC Academics</h3>Platform for managing SLTC academic resources, schedules, and student tools.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+- <h3>SLTC Academics</h3>Platform for managing SLTC academic resources, schedules, and student tools.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+
+
+
+(Explore more in my [Repositories](https://github.com/kasiranaweera?tab=repositories).)
 
 ## 🛠️ Skills & Tools
 - **AI/ML/DL**: PyTorch, PyTorch Geometric, LightGBM, Hugging Face, TensorFlow, LangChain
@@ -34,57 +131,7 @@ I'm a **BSc Software Engineering undergraduate** deeply passionate about **Artif
 
 Feel free to explore my repositories and reach out for collaboration
 
-<!-- Featured Projects Section -->
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">My Awesome Project</h3>
-<div align="center">  
-<a href="#" target="_blank">
-<img src="/path/to/project.png" width="50%" alt="My Awesome Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-<p align="left">
-• Key feature or achievement<br>
-• Important functionality<br>
-• Technical highlight
-</p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">My Awesome Project</h3>
-<div align="center">  
-<a href="#" target="_blank">
-<img src="/path/to/project.png" width="50%" alt="My Awesome Project"/>
-</a>
-<br>
-<br>
-<p>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
-</a>
-<a href="#" target="_blank">
-<img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
-</a>
-</p>
-<p align="left">
-• Key feature or achievement<br>
-• Important functionality<br>
-• Technical highlight
-</p>
-</div>
-</td>
-</tr>
-</table>
+
 
 ---
 
