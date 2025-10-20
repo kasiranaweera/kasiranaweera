@@ -108,42 +108,40 @@ BSc Software Engineering undergraduate at [SLTC](https://www.sltc.ac.lk/) since 
 
 </table>
 
-- <h3>React Native Mobile App</h3>Cross-platform mobile application built as my first React Native project to explore mobile development, focusing on event management and team collaboration for SLTC student initiatives. Features real-time notifications, task tracking, and offline access using Firebase for backend sync and Expo for streamlined development and testing.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
-- <h3>SLTC Academics</h3>Platform for managing SLTC academic resources, schedules, and student tools.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
-- <h3>SLTC Academics</h3>Platform for managing SLTC academic resources, schedules, and student tools.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+- React Native Mobile App - Built while learning React-Native via the [YouTube Crash Course](https://youtu.be/f8Z9JyB2EIE)<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+
+- Brainbox Quiz App - Full-stack quiz system with React frontend and Django backend.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+
+- SLTC Academics - Platform for managing SLTC academic resources, schedules, and student tools.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
 
 
 
 (Explore more in my [Repositories](https://github.com/kasiranaweera?tab=repositories).)
 
-## 🛠️ Skills & Tools
-- **AI/ML/DL**: PyTorch, PyTorch Geometric, LightGBM, Hugging Face, TensorFlow, LangChain
-- **Generative/Agentic AI**: Transformers, Diffusion Models, Reinforcement Learning
-- **Programming**: Python, JavaScript, Java, PHP
-- **Web Development**: MERN Stack, Django, React JS, Tailwind CSS, Material UI
-- **Big Data**: Pandas, NumPy, Plotly
-- **Tools**: Git, Colab, FastAPI, Next.js, Docker
+## Skills & Tools
+
+| **Category**               | **Tools**                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **AI / ML / DL**           | PyTorch • PyTorch Geometric • LightGBM • Hugging Face • TensorFlow • LangChain • Kaggle |
+| **Generative & Agentic AI**| Transformers • Diffusion Models • RAG • Reinforcement Learning            |
+| **Web Development**        | React.js • Next.js • Django • MERN Stack • Tailwind CSS • Material UI     |
+| **Programming & Data**     | Python • JavaScript • Java • Pandas • NumPy • Plotly                     |
+| **DevOps & Tools**         | Git • Jira (SCRUM) • Docker • FastAPI • Google Colab                     |
 
 ## 📫 Get in Touch
 - Email: [ranaweerakasi@gmail.com]
-- LinkedIn: [kasiranaweera](https://linkedin.com/in/yourprofile)
-- Portfolio: [kasiranaweera.com](https://yourusername.github.io)
+- LinkedIn: [kasiranaweera](https://linkedin.com/in/kasi-ranaweera)
+- Portfolio: [kasiranaweera.vercel.app](https://kasiranaweera.vercel.app)
 
 Feel free to explore my repositories and reach out for collaboration
-
-
 
 ---
 
 <div align="center">
 
-### 🚀 **"The best way to predict the future is to invent it."** - Alan Kay
+### **"AI is the Engine that Powers the Future"**
+Let's collaborate on your next project. I'm always excited to work on innovative solutions.
 
-**Currently building the next generation of AI agents that will reshape how we interact with technology.**
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=alexchen.alexchen)
-![Profile Views](https://komarev.com/ghpvc/?username=alexchen&color=blueviolet&style=flat-square&label=Profile+Views)
-
-*Last Updated: January 2025*
+`Last Updated: Octomber 2025`
 
 </div>
