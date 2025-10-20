@@ -26,7 +26,7 @@
   </defs>
 
   <!-- Background Rounded Rectangle -->
-  <rect x="0" y="0" width="168" height="48" rx="12" ry="12"
+  <rect x="0" y="0" width="168" height="48" rx="12" ry="12" fill="#0d1117"
         stroke="#ffffff" stroke-width="1" opacity="1"/>
 
 
