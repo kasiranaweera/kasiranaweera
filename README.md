@@ -110,7 +110,9 @@ BSc Software Engineering undergraduate at [SLTC](https://www.sltc.ac.lk/) since 
 
 - React Native Mobile App - Built while learning React-Native via the [YouTube Crash Course](https://youtu.be/f8Z9JyB2EIE)<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
 
-- Brainbox Quiz App - Full-stack quiz system with React frontend and Django backend.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+- Brainbox Quiz App - Full-stack quiz system with React frontend and Django backend.<br><a href="https://github.com/kasiranaweera/brainbox-frontend">View on GitHub</a>
+
+- Smart Fan Control System with Gesture Recognition - IoT-based system integrating sensors and machine learning gesturer recognition for automated fan control. <br><a href="https://github.com/kasiranaweera/Smart-Fan-Control-Using-Image-Processing">View on GitHub</a>
 
 - SLTC Academics - Platform for managing SLTC academic resources, schedules, and student tools.<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
 
