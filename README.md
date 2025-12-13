@@ -108,7 +108,10 @@ BSc Software Engineering undergraduate at [SLTC](https://www.sltc.ac.lk/) since 
 
 </table>
 
-- React Native Mobile App - Built while learning React-Native via the [YouTube Crash Course](https://youtu.be/f8Z9JyB2EIE)<br><a href="https://github.com/kasiranaweera/sltc_academics">View on GitHub</a>
+
+- AR Space Education Application - An immersive Augmented Reality (AR) educational application focused on solar system exploration and space phenomena. Built with Unity and Vuforia SDK to create interactive learning experiences.<br><a href="https://github.com/kasiranaweera/ar-space-education">View on GitHub</a>
+
+- React Native Mobile App - Built while learning React-Native via the [YouTube Crash Course](https://youtu.be/f8Z9JyB2EIE)<br><a href="https://github.com/kasiranaweera/">View on GitHub</a>
 
 - Brainbox Quiz App - Full-stack quiz system with React frontend and Django backend.<br><a href="https://github.com/kasiranaweera/brainbox-frontend">View on GitHub</a>
 
