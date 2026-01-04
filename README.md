@@ -28,13 +28,13 @@ BSc Software Engineering undergraduate at [SLTC](https://www.sltc.ac.lk/) since 
 </div>
 </td>
 <td width="50%">
-<h3 align="center">Knowingz Platform</h3>
+<h3 align="center">OL-Poddo | Knowingz Platform</h3>
 <div align="center">  
 <p>An educational math platform for O/L students, offering study materials, past papers, and expanding with interactive lessons, practice tools, calculators, virtual keyboards, and more to enhance accessible learning.</p>
 <p>(Next.js, Tailwind CSS, Latex)</p>
 <br>
   <p>
-  <a href="#" target="_blank">
+  <a href="https://github.com/kasiranaweera/ol-poddo" target="_blank">
 <img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
 </a>
     </p>
