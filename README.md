@@ -21,7 +21,7 @@ BSc Software Engineering undergraduate at [SLTC](https://www.sltc.ac.lk/) since 
   <p>(React.js, Django, RAG, LangChain, Deepseek, Python)</p>
 <br>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/kasiranaweera/eduwingz" target="_blank">
 <img src="https://github.com/kasiranaweera/kasiranaweera/blob/14b1f8df68a569b10bbf6487d0a19d6cdc0ea0de/items/banner.svg"/>
 </a>
 </p>
