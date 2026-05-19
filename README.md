@@ -8,10 +8,10 @@ With over 2+ years of active development experience, I have shipped end-to-end A
 
 ## What I Do
 
-- **AI & Machine Learning** — Design and train ML/DL models for recommendation systems, predictive analytics, and graph-based learning using Python, PyTorch, and LightGBM. From data to deployment, I own the full pipeline.
-- **Generative & Agentic AI** — Build production-grade agentic systems using LangChain, LangGraph, and MCP. Experienced in LLM fine-tuning (Gemma, DeepSeek), RAG pipelines, multi-agent orchestration, and autonomous reasoning frameworks.
-- **Full-Stack Engineering** — Deliver scalable, well-architected web applications across the MERN stack, Django, Next.js, and FastAPI — from database design to responsive UI.
-- **Community & Tech Leadership** — Organizer and volunteer at NASA Space Apps Challenge, IEEE workshops, and student tech societies — committed to making technology accessible and education impactful.
+- **AI & Machine Learning**: Design and train ML/DL models for recommendation systems, predictive analytics, and graph-based learning using Python, PyTorch, and LightGBM. From data to deployment, I own the full pipeline.
+- **Generative & Agentic AI**: Build production-grade agentic systems using LangChain, LangGraph, and MCP. Experienced in LLM fine-tuning including Gemma and DeepSeek, RAG pipelines, multi-agent orchestration, and autonomous reasoning frameworks.
+- **Full-Stack Engineering**: Deliver scalable, well-architected web applications across the MERN stack, Django, Next.js, and FastAPI, covering everything from database design to responsive UI development.
+- **Community & Tech Leadership**: Organizer and volunteer at NASA Space Apps Challenge, IEEE workshops, and student tech societies, committed to making technology accessible and education more impactful.
 
 ## Featured Projects
 
